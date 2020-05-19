@@ -10,6 +10,9 @@ requests = "*"
 pandas = "*"
 jupyter = "*"
 beautifulsoup4 = "*"
+matplotlib = "*"
+fuzzywuzzy = "*"
+unidecode = "*"
 
 [requires]
 python_version = "3.8"

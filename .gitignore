@@ -134,3 +134,6 @@ dmypy.json
 
 # Scrap files
 scrap/*.csv
+
+# ignore csv
+data/*.csv
